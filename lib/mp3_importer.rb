@@ -1,5 +1,6 @@
 class MP3Importer
-def initialize(end)
+  attr
+def initialize(path)
   
 end
-end
+end #clsend
